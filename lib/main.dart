@@ -46,6 +46,9 @@ class _MyHomePageState extends State<MyHomePage> {
         decoration: BoxDecoration(
           gradient: LinearGradient(
             begin: Alignment.topCenter,
+// git remote add autoLOL git@github.com:Anh76PC/autoLOL.git
+// git push https://github.com/anhpc11/test.git --force
+            //
             end: Alignment.bottomCenter,
             colors: [
               Color(0xfffff8f9),
